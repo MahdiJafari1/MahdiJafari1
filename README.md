@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am Mahdi Jafari, student of software engineering at Kabul University.
+I am web developer at iap.af (Intellectual Applications & Products). 
+I love software engineering and programming.
+
+
+
 <!--
 **MahdiJafari1/MahdiJafari1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
