@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Mahdi Jafari, student of software engineering at Kabul University.
-I am web developer at iap.af (Intellectual Applications & Products). 
+and web developer at iap.af (Intellectual Applications & Products). 
 I love software engineering and programming.
 
 
