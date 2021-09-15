@@ -1,9 +1,3 @@
-### Hi there 👋
-
-I am Mahdi Jafari, student of software engineering at Kabul University.
-and web developer at iap.af (Intellectual Applications & Products). 
-I love software engineering and programming.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdijafari1&show_icons=true&theme=radical)
 
 
