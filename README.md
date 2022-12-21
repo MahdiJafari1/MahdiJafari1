@@ -1,11 +1,14 @@
 <h1 >Hi 👋, I'm Mahdi Jafari</h1>
-<p >A passionate and curious Python developer from Afghanistan</p>
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=MahdiJafari1)
-[![Github](https://img.shields.io/github/followers/MahdiJafari1?label=Follow&style=social)](https://github.com/MahdiJafari1)
-
 <div size='20px'>Thank you for taking the time to view my GitHub Profile :smile: 
 </div>
+
+<br>
+
+
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=MahdiJafari1)
+[![Followers](https://img.shields.io/github/followers/MahdiJafari1?label=Follow&style=social)](https://github.com/MahdiJafari1)
+
+
 
 <h2> About Me</h2>
 
@@ -21,7 +24,7 @@
 
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/mahdijafari12/) profile
 
-- ⚡ Fun fact **Happy Programmer**
+- ⚡ Fun fact: **Happy Programmer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
