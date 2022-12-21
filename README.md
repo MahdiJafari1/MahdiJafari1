@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahdi Jafari</h1>
-<p align="center">A passionate and curious Python developer from Afghanistan</p>
+<h1 >Hi 👋, I'm Mahdi Jafari</h1>
+<p >A passionate and curious Python developer from Afghanistan</p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=MahdiJafari1)
 [![Github](https://img.shields.io/github/followers/MahdiJafari1?label=Follow&style=social)](https://github.com/MahdiJafari1)
