@@ -19,7 +19,7 @@
 
 - 📫 Reach me at **jafarimahdi.me@gmail.com**
 
-- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/mahdijafari12/) prfile
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/mahdijafari12/) profile
 
 - ⚡ Fun fact **Happy Programmer**
 
