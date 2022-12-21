@@ -1,17 +1,11 @@
-
 <h1 align="center">Hi 👋, I'm Mahdi Jafari</h1>
 <p align="center">A passionate and curious Python developer from Afghanistan</p>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=MahdiJafari1)
 [![Github](https://img.shields.io/github/followers/MahdiJafari1?label=Follow&style=social)](https://github.com/MahdiJafari1)
 
-<div size='20px'> Hi! My name is Mahdi. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'>Thank you for taking the time to view my GitHub Profile :smile: 
 </div>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahdijafari1" alt="mahdijafari1" /></a> </p>
-
-
 
 <h2> About Me</h2>
 
@@ -23,9 +17,9 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **jafarimahdi.me@gmail.com**
+- 📫 Reach me at **jafarimahdi.me@gmail.com**
 
-- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/mahdijafari12/)
+- 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/mahdijafari12/) prfile
 
 - ⚡ Fun fact **Happy Programmer**
 
@@ -48,7 +42,12 @@
 <br>
 <br>
 
-| ![Mahdi's github stats](https://github-readme-stats.vercel.app/api?username=MahdiJafari1&show_icons=true&theme=tokyonight) | ![Mahdi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahdiJafari1&theme=tokyonight)                                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiJafari1&theme=tokyonight)                 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=MahdiJafari1&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdijafari1&show_icons=true&locale=en&layout=compact" alt="mahdijafari1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdijafari1&show_icons=true&locale=en" alt="mahdijafari1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahdijafari1&" alt="mahdijafari1" /></p>
+
+
 
