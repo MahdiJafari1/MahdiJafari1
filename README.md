@@ -2,7 +2,7 @@
 
 
  - I am currently working as Python Backend Developer at LegalKite.
- - I am currently ElasticSearch and other related technologies.
+ - I am currently Elasticsearch and other related technologies.
  - I mostly use Python and its frameworks.
 
 
