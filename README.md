@@ -5,10 +5,4 @@
  - I am currently Elasticsearch and other related technologies.
  - I mostly use Python and its frameworks.
 
-### Connect with me: 
-
- - [LinkedIn](https://linkedin.com/in/mahdijafari12/)
- - [Twitter](https://twitter.com/themahdijafari)
- - [Email](mailto:jafarimahdi.me@gmail.com)
-
 
